@@ -39,8 +39,8 @@ pip install requests
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/dirbrute.git
-cd dirbrute
+https://github.com/RafaelPessoaViglio/dirbruteforce
+cd dirbruteforce
 ```
 
 Create a virtual environment (recommended):
